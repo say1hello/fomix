@@ -1,0 +1,77 @@
+.countdown {
+	width: 360px;
+}
+.home .countdown {
+	margin: 20px auto 0;
+}
+.countdown .counter {
+	width: 360px;
+	height: 114px;
+	background: url(../images/counter.png);
+}
+.countdown .caption {
+	margin: 0 0 10px;
+	font-size: 20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+.countdown .counter .count-unit {
+	display: inline-block;
+	width: 33.3%;
+	text-align: center;
+}
+.countdown .counter .count-unit .count-name {
+	line-height: 30px;
+	font-size: 16px;
+	text-transform: uppercase;
+}
+.countdown .counter .count-unit .count-value {
+	line-height: 84px;
+	font-size: 68px;
+}
+
+
+.action .countdown {
+	position: absolute;
+	left: 285px;
+	bottom: 15px;
+}
+.action .countdown .caption {
+	position: relative;
+	color: #fff;
+	background: #d8153c;
+}
+.action .countdown .caption:after {
+	content: '';
+	position: absolute;
+	left: 50%;
+	bottom: -10px;
+	margin-left: -56px;
+	width: 113px;
+	height: 11px;
+	background: url(../images/corner-bottom-red.png) no-repeat;
+}
+
+
+#vip-modal .countdown {
+	width: 214px;
+}
+#vip-modal .countdown .counter {
+	width: 214px;
+	height: 69px;
+	background: url(../images/counter-2.png);
+}
+#vip-modal .countdown .caption {
+	margin: 0 0 7px;
+	font-size: 12px;
+}
+#vip-modal .countdown .counter .count-unit .count-name {
+	height: 20px;
+	line-height: 18px;
+	font-size: 10px;
+}
+#vip-modal .countdown .counter .count-unit .count-value {
+	height: 50px;
+	line-height: 42px;
+	font-size: 40px;
+}

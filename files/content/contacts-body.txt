@@ -1,0 +1,8 @@
+<p>Телефон: &nbsp; &nbsp; &nbsp; <span style="color:#006ba6">+7(499)653-76-20</span></p>
+
+<p>E-mail: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:#006ba6">info@tax0.ru</span></p>
+
+<p>Адрес: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:#006ba6">127473 Москва ул.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Селезневская, д. 11а, стр.2</span></p>
+
+<p>ОГРН: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color:#006ba6">1127746242678</span></p>

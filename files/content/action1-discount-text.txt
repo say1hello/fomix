@@ -1,0 +1,3 @@
+<p><span style="color:#006ba6; font-family:officinasansblackcregular; font-size:30px">ОГРАНИЧЕННОЕ ПРЕДЛОЖЕНИЕ</span><br />
+<span style="color:#000; font-family:officinasansboldcregular; font-size:36px">СКИДКА НА УСЛУГУ &quot;3 В 1&quot;</span><br />
+<span style="color:#000; font-size:20px">Бухгалтерский + Налоговый + Кадровый учет</span></p>

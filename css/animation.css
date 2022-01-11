@@ -1,0 +1,6 @@
+*[data-os-animation] {
+	visibility: hidden;
+}
+*[data-os-animation].animated {
+	visibility: visible;
+}

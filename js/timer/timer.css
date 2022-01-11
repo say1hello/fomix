@@ -1,0 +1,73 @@
+.timer {
+	width: 262px;
+	padding: 1px 0 0 4px;
+	height: 64px;
+	background: url(images/timer-bg.png) no-repeat;
+}
+.timer-with-text {
+	height: 80px;
+}
+.timer .count-group {
+	position: relative;
+	margin-left: 11px;
+	float: left;
+	width: 54px;
+	height: 100%;
+}
+.timer .count-group:first-child {
+	margin-left: 0;
+}
+.timer-with-text .count-group::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	font-size: 12px;
+	text-align: center;
+}
+.timer-with-text .count-group.count-days::after {
+	content: 'дней';
+}
+.timer-with-text .count-group.count-hours::after {
+	content: 'часов';
+}
+.timer-with-text .count-group.count-minutes::after {
+	content: 'минут';
+}
+.timer-with-text .count-group.count-seconds::after {
+	content: 'секунд';
+}
+
+.timer .flip {
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+.timer .dayPlay, .timer .hourPlay, .timer .minutePlay, .timer .secondPlay {
+	background: url(images/timer0_9.png);
+}
+.timer .hour2Play, .timer .day1Play {
+	background: url(images/timer0_2_l.png);
+}
+.timer .minute6Play, .timer .second6Play {
+	background: url(images/timer0_5_l.png);
+}
+.timer .hourPlay {
+	background-position: 0px 800px;
+}
+.timer .hour2Play {
+	background-position: 0px 400px;
+}
+.timer .minutePlay {
+	background-position: 0px 1600px;
+}
+.timer .minute6Play {
+	background-position: 0px 2000px;
+}
+.timer .secondPlay {
+	background-position: 0px 2000px;
+}
+.timer .second6Play {
+	background-position: 0px 400px;
+}

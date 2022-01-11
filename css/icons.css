@@ -1,0 +1,93 @@
+.section .items-list li .icon {
+	background-image: url(../images/icons.png);
+}
+
+/* BENEFITS
+-----------------------------------*/
+.benefits .items-list li.first .icon {
+	background-position: 0 0;
+}
+.benefits .items-list li.second .icon {
+	background-position: -116px 0;
+}
+.benefits .items-list li.third .icon {
+	background-position: -232px 0;
+}
+.benefits .items-list li.four .icon {
+	background-position: -348px 0;
+}
+.benefits .items-list li.five .icon {
+	background-position: -464px 0;
+}
+
+/* CLIENTS
+-----------------------------------*/
+.clients .items-list li.first .icon {
+	background-position: 0 -116px;
+}
+.clients .items-list li.second .icon {
+	background-position: -116px -116px;
+}
+.clients .items-list li.third .icon {
+	background-position: -232px -116px;
+}
+.clients .items-list li.four .icon {
+	background-position: -348px -116px;
+}
+.clients .items-list li.five .icon {
+	background-position: -464px -116px;
+}
+
+/* SERVICES
+-----------------------------------*/
+.services .items-list li .icon {
+	background-position: 0 -428px;
+}
+
+/* HOW-WE-WORK
+-----------------------------------*/
+.how-we-work .items-list li.first .icon {
+	background-position: 0 -232px;
+}
+.how-we-work .items-list li.second .icon {
+	background-position: -116px -232px;
+}
+.how-we-work .items-list li.third .icon {
+	background-position: -232px -232px;
+}
+.how-we-work .items-list li.four .icon {
+	background-position: -348px -232px;
+}
+.how-we-work .items-list li.five .icon {
+	background-position: -464px -232px;
+}
+
+/* ADVANTAGES
+-----------------------------------*/
+.advantages .items-list li.first .icon {
+	background-position: 0 -348px;
+}
+.advantages .items-list li.second .icon {
+	background-position: -80px -348px;
+}
+.advantages .items-list li.third .icon {
+	background-position: -160px -348px;
+}
+.advantages .items-list li.four .icon {
+	background-position: -240px -348px;
+}
+.advantages .items-list li.five .icon {
+	background-position: -320px -348px;
+}
+.advantages .items-list li.six .icon {
+	background-position: -400px -348px;
+}
+.advantages .items-list li.seven .icon {
+	background-position: -480px -348px;
+}
+.advantages .items-list li.eight .icon {
+	background-position: -560px -348px;
+}
+.advantages .items-list li.nine .icon {
+	background-position: -640px -348px;
+}

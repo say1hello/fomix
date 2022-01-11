@@ -1,0 +1,6 @@
+<p><span style="font-size:20px">скидка</span></p>
+
+<p><br />
+<span style="font-size:48px">20%</span></p>
+
+<p><span style="font-size:16px">на 1 квартал</span></p>
